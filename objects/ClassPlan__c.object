@@ -164,22 +164,22 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>Automate1__c</fullName>
+        <externalId>false</externalId>
+        <label>Automate1</label>
+        <length>128</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ClassPlan1__c</fullName>
         <externalId>false</externalId>
         <label>ClassPlan1</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
-    </fields>
-    <fields>
-        <fullName>Classpaln5__c</fullName>
-        <externalId>false</externalId>
-        <label>Classpaln5</label>
-        <length>128</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>classplan2__c</fullName>
