@@ -162,14 +162,4 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    <fields>
-        <fullName>MedicalRider__c</fullName>
-        <externalId>false</externalId>
-        <label>MedicalRider</label>
-        <length>124</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
 </CustomObject>
