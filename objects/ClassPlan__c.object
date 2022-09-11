@@ -167,10 +167,37 @@
         <fullName>ClassPlan1__c</fullName>
         <externalId>false</externalId>
         <label>ClassPlan1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>classplan2__c</fullName>
+        <externalId>false</externalId>
+        <label>classplan2</label>
         <length>128</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>classplan3__c</fullName>
+        <externalId>false</externalId>
+        <label>classplan3</label>
+        <length>128</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MemberEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>MemberEmail</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
         <unique>false</unique>
     </fields>
 </CustomObject>
