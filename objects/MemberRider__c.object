@@ -166,7 +166,7 @@
         <fullName>MedicalRider__c</fullName>
         <externalId>false</externalId>
         <label>MedicalRider</label>
-        <length>128</length>
+        <length>124</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
