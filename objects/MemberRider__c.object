@@ -143,7 +143,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>ClassPlan</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -154,80 +153,23 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>ClassPlan</label>
+    <label>MemberRider</label>
     <nameField>
-        <label>ClassPlan Name</label>
+        <label>MemberRider Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>ClassPlans</pluralLabel>
+    <pluralLabel>MemberRiders</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-        <fullName>Automate1__c</fullName>
+        <fullName>MedicalRider__c</fullName>
         <externalId>false</externalId>
-        <label>Automate1</label>
+        <label>MedicalRider</label>
         <length>128</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Automate2__c</fullName>
-        <externalId>false</externalId>
-        <label>Automate2</label>
-        <length>128</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>ClassPlan1__c</fullName>
-        <externalId>false</externalId>
-        <label>ClassPlan1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>TextArea</type>
-    </fields>
-    <fields>
-        <fullName>Classpaln5__c</fullName>
-        <externalId>false</externalId>
-        <label>Classpaln5</label>
-        <length>128</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>classplan2__c</fullName>
-        <externalId>false</externalId>
-        <label>classplan2</label>
-        <length>128</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>classplan3__c</fullName>
-        <externalId>false</externalId>
-        <label>classplan3</label>
-        <length>128</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>MemberEmail__c</fullName>
-        <externalId>false</externalId>
-        <label>MemberEmail</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
         <unique>false</unique>
     </fields>
 </CustomObject>
