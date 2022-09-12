@@ -34,6 +34,10 @@
                 <behavior>Edit</behavior>
                 <field>Automate2__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PlanID__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
